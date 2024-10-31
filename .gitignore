@@ -25,3 +25,6 @@ replay_pid*
 
 # MacOS Finder Files
 .DS_Store
+
+# Extensions
+*.vscode
